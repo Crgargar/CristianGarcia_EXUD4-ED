@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: es.cristiangg.cristiangarcia_ej2.exud4.conversorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.051 sec <<< FAILURE!
+es.cristiangg.cristiangarcia_ej2.exud4.conversorTest.testFahrenheitACelsius()  Time elapsed: 0.02 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at es.cristiangg.cristiangarcia_ej2.exud4.conversorTest.testFahrenheitACelsius(conversorTest.java:51)
+
+es.cristiangg.cristiangarcia_ej2.exud4.conversorTest.testCelsiusAFahrenheit()  Time elapsed: 0.002 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at es.cristiangg.cristiangarcia_ej2.exud4.conversorTest.testCelsiusAFahrenheit(conversorTest.java:37)
+
+es.cristiangg.cristiangarcia_ej2.exud4.conversorTest.testMain()  Time elapsed: 0.027 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at es.cristiangg.cristiangarcia_ej2.exud4.conversorTest.testMain(conversorTest.java:23)
+
